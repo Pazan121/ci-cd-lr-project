@@ -1,4 +1,9 @@
 ## Latest Release Info
+- Version: v1.0.2
+- PR: Create XZ
+- Joke: NO ALISTER CHUCK NORRIS KICKS YO ASS :), NO ALISTER CHUCK NORRIS KICKS YO ASS :), NO ALISTER CHUCK NORRIS KICKS YO ASS :), NO ALISTER CHUCK NORRIS KICKS YO ASS :), NO ALISTER CHUCK NORRIS KICKS YO ASS :), NO ALISTER CHUCK NORRIS KICKS YO ASS :), NO ALISTER CHUCK NORRIS KICKS YO ASS :), NO ALISTER CHUCK NORRIS KICKS YO ASS :),
+
+## Latest Release Info
 - Version: v1.0.1
 - PR: Add GitHub Actions workflow for release automation
 - Joke: Chuck Norris doesn't have a nervous system. He has a supremely tough and confident system.
