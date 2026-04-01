@@ -1,3 +1,8 @@
+## Latest Release Info
+- Version: v1.0.1
+- PR: Add GitHub Actions workflow for release automation
+- Joke: Chuck Norris doesn't have a nervous system. He has a supremely tough and confident system.
+
 # React + TypeScript + Vite
 
 
