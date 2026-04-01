@@ -1,4 +1,9 @@
 ## Latest Release Info
+- Version: v1.0.3
+- PR: Delete XZ
+- Joke: Chuck Norris once knocked himself out with his own line drive when he slid into second.
+
+## Latest Release Info
 - Version: v1.0.2
 - PR: Create XZ
 - Joke: NO ALISTER CHUCK NORRIS KICKS YO ASS :), NO ALISTER CHUCK NORRIS KICKS YO ASS :), NO ALISTER CHUCK NORRIS KICKS YO ASS :), NO ALISTER CHUCK NORRIS KICKS YO ASS :), NO ALISTER CHUCK NORRIS KICKS YO ASS :), NO ALISTER CHUCK NORRIS KICKS YO ASS :), NO ALISTER CHUCK NORRIS KICKS YO ASS :), NO ALISTER CHUCK NORRIS KICKS YO ASS :),
